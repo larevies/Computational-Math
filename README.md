@@ -1,4 +1,4 @@
-# ITMO
+# Computational Math
 some things from my university practice. 
 
 lab works for computational mathematics (all in java) in this order:
